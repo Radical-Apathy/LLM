@@ -1,0 +1,14 @@
+437/8824
+
+pip3 install matplotlib numpy pylzma ipykernal jupyter
+
+9 mins 40
+
+
+(base) C:\Users\Littl\source\repos\LLM\LLM\fcc-gpt-course>python -m ipykernel install --user --name=cuda --display-name "cuda-gpt"
+Installed kernelspec cuda in C:\Users\Littl\AppData\Roaming\jupyter\kernels\cuda
+
+
+chars = sorted(set(text)) = set is a keyword in python that creates an array of unique chars in text passed through
+
+stop point 39.42
